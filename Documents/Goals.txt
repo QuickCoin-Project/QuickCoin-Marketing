@@ -1,0 +1,17 @@
+<QuickCoin>
+                                QuickCoin
+-Smaller transactions (70% smaller than bitcoin tx)for a small blockchain.
+-50 tx/s 
+-15 seconds blocktime
+
+
+
+                              QuickCoin wallet
+-Works with open alliases.
+-Fast and smooth on low hardware requirements 
+
+                              QuickCoin-IOSWallet
+-QR Code scanner
+-Build for remote nodes (scans network for open nodes and connects automatticly 
+
+                            
