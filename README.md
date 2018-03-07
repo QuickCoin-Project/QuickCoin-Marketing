@@ -1,2 +1,0 @@
-# QuickCoin-Marketing
-Whitepaper+Logos
