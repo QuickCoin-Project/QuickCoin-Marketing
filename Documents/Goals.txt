@@ -3,7 +3,7 @@
 -Smaller transactions (70% smaller than bitcoin tx)for a small blockchain.
 -50 tx/s 
 -15 seconds blocktime
-
+-A price of 10 euro's regulated by the blockreward system.
 
 
                               QuickCoin wallet
@@ -15,3 +15,13 @@
 -Build for remote nodes (scans network for open nodes and connects automatticly 
 
                             
+
+
+
+                                       <Blockrewardsystem>
+                             The goal for QC is to be worth 10 euros.
+This is to be done by adaptive blockreward and an ico for an amount of coins.
+every 5 minutes the blockreward on the fact that the price need to go up or down regarding price.
+blockreward:10=Marketcap/ammount coins if marketcap/ammount of coins isnt 10 the blockreward is the amount of coins that need to be there that the marketcap is 10.
+if thats true then the blockreward is spread out over 40 blocks(10 minutes).
+if the worth of the coin is 10 or higher there is no blockreward for the coming 10 minutes except for transaction fees.
