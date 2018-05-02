@@ -4,6 +4,10 @@
 
 
 Hello and welcome by this whitepaper.
-1.Introduction to the goal of this coin.\par
-The goal is a fast coin with a stable price to rule all non-trade payments for in for example the supermarket.\par
-2.How are we gonnna create a stable price?\par
+1.Introduction to the goal of this coin.
+
+The goal is a fast coin with a stable price to rule all non-trade payments for in for example the supermarket.
+
+2.How are we gonnna create a stable price?
+To create a stable its needed to regulate the blockreward
+
